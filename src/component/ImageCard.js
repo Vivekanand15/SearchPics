@@ -1,5 +1,5 @@
 import React from "react";
-
+// this is comment
 class ImageCard extends React.Component{
     state={spans:0};
     constructor(props){
